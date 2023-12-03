@@ -168,3 +168,4 @@ soup = BeautifulSoup(page_source, "html.parser")
 #     print("Folgennummer:", folgennummer)
 #     print("Folgentitel:", folgentitel)
 #     # print(soup)
+
